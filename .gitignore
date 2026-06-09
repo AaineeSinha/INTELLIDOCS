@@ -1,0 +1,10 @@
+# Python environment
+venv/
+.env
+__pycache__/
+
+# Database files
+chroma_db/
+
+# OS files
+.DS_Store

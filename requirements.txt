@@ -1,0 +1,12 @@
+streamlit
+pypdf
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+chromadb
+python-dotenv
+google-generativeai
+# The following are required for stability
+typing-extensions
+pydantic
